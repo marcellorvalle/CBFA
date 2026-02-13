@@ -1,0 +1,1492 @@
+{
+  "version": 69,
+  "meta": {
+    "name": "CBFA-WIP"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "abbrev": "ANA",
+      "region": "Ananindeua",
+      "name": "Uirapuru Warriors",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/ANA.png",
+      "colors": [
+        "#ffee33",
+        "#72b7f3",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 1,
+      "abbrev": "BEL",
+      "region": "Belém",
+      "name": "Islanders",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BEL.png",
+      "colors": [
+        "#2a4bd7",
+        "#d80d0d",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 2,
+      "abbrev": "BRA",
+      "region": "Brasília",
+      "name": "Planalto Hawks",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BRA.png",
+      "colors": [
+        "#ffee33",
+        "#228017",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 3,
+      "abbrev": "BVI",
+      "region": "Boa Vista",
+      "name": "Peakers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BVI.png",
+      "colors": [
+        "#2d8d20",
+        "#dfd02c",
+        "#ffffff"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 4,
+      "abbrev": "CGR",
+      "region": "Campo Grande",
+      "name": "Guarani Stallions",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CGR.png",
+      "colors": [
+        "#ad2323",
+        "#ffee33",
+        "#2a4bd7"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 5,
+      "abbrev": "CUI",
+      "region": "Cuiabá",
+      "name": "Pantanal Gators",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CUI.png",
+      "colors": [
+        "#23701a",
+        "#ffee33",
+        "#a0a0a0"
+      ],
+      "jersey": "football5",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 6,
+      "abbrev": "DOU",
+      "region": "Dourados",
+      "name": "Golden Harvest",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/DOU.png",
+      "colors": [
+        "#fda202",
+        "#153e82",
+        "#fdfbad"
+      ],
+      "jersey": "football4",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 7,
+      "abbrev": "GOI",
+      "region": "Goiânia",
+      "name": "Cerrado Bulls",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/GOI.png",
+      "colors": [
+        "#b20f06",
+        "#002c0f",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 8,
+      "abbrev": "LUZ",
+      "region": "Luziânia",
+      "name": "Bandeira Braves",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/LUZ.png",
+      "colors": [
+        "#184598",
+        "#c7110b",
+        "#fdd309"
+      ],
+      "jersey": "football2",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 9,
+      "abbrev": "MAN",
+      "region": "Manaus",
+      "name": "Black Jaguars",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAN.png",
+      "colors": [
+        "#f7c235",
+        "#023b18",
+        "#000000"
+      ],
+      "jersey": "football4",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 10,
+      "abbrev": "MAP",
+      "region": "Macapá",
+      "name": "Equator Sentinels",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAP.png",
+      "colors": [
+        "#ec9e05",
+        "#2f7741",
+        "#bf1204"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 11,
+      "abbrev": "MAR",
+      "region": "Marabá",
+      "name": "Carajás Iron",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAR.png",
+      "colors": [
+        "#f3456b",
+        "#094d1b",
+        "#fce136"
+      ],
+      "jersey": "football2",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 12,
+      "abbrev": "PAL",
+      "region": "Palmas",
+      "name": "Jalapão Fire",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PAL.png",
+      "colors": [
+        "#e4353d",
+        "#236aa7",
+        "#ed9d37"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 13,
+      "abbrev": "PVE",
+      "region": "Porto Velho",
+      "name": "Madeira Pioneers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PVE.png",
+      "colors": [
+        "#fcdd11",
+        "#69c8f7",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 14,
+      "abbrev": "RBR",
+      "region": "Rio Branco",
+      "name": "Frontiers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/RBR.png",
+      "colors": [
+        "#f0170f",
+        "#000000",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 0,
+      "did": 0,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 15,
+      "abbrev": "SAN",
+      "region": "Santarém",
+      "name": "Tapajós Arrows",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SAN.png",
+      "colors": [
+        "#f32321",
+        "#fae749",
+        "#000000"
+      ],
+      "jersey": "football3",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 16,
+      "abbrev": "ARA",
+      "region": "Aracaju",
+      "name": "Atobás",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/ARA.png",
+      "colors": [
+        "#1d6914",
+        "#ffffff",
+        "#ffee33"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 17,
+      "abbrev": "CAG",
+      "region": "Campina Grande",
+      "name": "Peregrinos",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAG.png",
+      "colors": [
+        "#000000",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football4",
+      "cid": 1,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 18,
+      "abbrev": "CAR",
+      "region": "Caruaru",
+      "name": "Forró Kings",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAR.png",
+      "colors": [
+        "#a28932",
+        "#17276d",
+        "#ee1f1f"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 19,
+      "abbrev": "FSA",
+      "region": "Feira de Santana",
+      "name": "Vaqueiros",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FSA.png",
+      "colors": [
+        "#c32d29",
+        "#0d6a41",
+        "#000000"
+      ],
+      "jersey": "football5",
+      "cid": 1,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 20,
+      "abbrev": "FOR",
+      "region": "Fortaleza",
+      "name": "Dragões do Mar",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FOR.png",
+      "colors": [
+        "#00b5a1",
+        "#fe4245",
+        "#020e27"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 21,
+      "abbrev": "IMP",
+      "region": "Imperatriz",
+      "name": "Tocantins Titans",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/IMP.png",
+      "colors": [
+        "#e0502d",
+        "#32bbc4",
+        "#102339"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 22,
+      "abbrev": "JPE",
+      "region": "João Pessoa",
+      "name": "Tabajaras",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JPE.png",
+      "colors": [
+        "#b42027",
+        "#cccccc",
+        "#010000"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 23,
+      "abbrev": "JUA",
+      "region": "Juazeiro",
+      "name": "River Saints",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JUA.png",
+      "colors": [
+        "#d1c27e",
+        "#a97e4b",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 24,
+      "abbrev": "MAC",
+      "region": "Maceió",
+      "name": "Coral Reefs",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAC.png",
+      "colors": [
+        "#fbee5c",
+        "#f9331f",
+        "#ffffff"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 25,
+      "abbrev": "MOS",
+      "region": "Mossoró",
+      "name": "Salt Raiders",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MOS.png",
+      "colors": [
+        "#102551",
+        "#cca552",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 1,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 26,
+      "abbrev": "NAT",
+      "region": "Natal",
+      "name": "Dune Riders",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/NAT.png",
+      "colors": [
+        "#79ab43",
+        "#0e2a44",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 27,
+      "abbrev": "PET",
+      "region": "Petrolina",
+      "name": "Sertão Stallions",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PET.png",
+      "colors": [
+        "#afb4b8",
+        "#050e3c",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 1,
+      "did": 1,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 28,
+      "abbrev": "REC",
+      "region": "Recife",
+      "name": "Mangrove Sharks",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/REC.png",
+      "colors": [
+        "#0e1c61",
+        "#e3cb38",
+        "#be1d31"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 29,
+      "abbrev": "SAL",
+      "region": "Salvador",
+      "name": "Pelourinho Knights",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SAL.png",
+      "colors": [
+        "#340e74",
+        "#b8c0ce",
+        "#ffffff"
+      ],
+      "jersey": "football3",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 30,
+      "abbrev": "SLU",
+      "region": "São Luís",
+      "name": "Lençóis Guardians",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SLU.png",
+      "colors": [
+        "#01242a",
+        "#f9ebb2",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 31,
+      "abbrev": "TER",
+      "region": "Teresina",
+      "name": "Carnaúba Warriors",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/TER.png",
+      "colors": [
+        "#1f53a5",
+        "#c69f63",
+        "#040021"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 32,
+      "abbrev": "BH",
+      "region": "Belo Horizonte",
+      "name": "Iron Fists",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BH.png",
+      "colors": [
+        "#ad2323",
+        "#ffee33",
+        "#a0a0a0"
+      ],
+      "jersey": "football3",
+      "cid": 2,
+      "did": 2,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 33,
+      "abbrev": "CAM",
+      "region": "Campinas",
+      "name": "Gold Panthers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAM.png",
+      "colors": [
+        "#f3c463",
+        "#000000",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 2,
+      "did": 2,
+      "pop": 2,
+      "stadiumCapacity": 20000,
+      "disabled": false
+    },
+    {
+      "tid": 34,
+      "abbrev": "DUQ",
+      "region": "Duque de Caxias",
+      "name": "Grenadiers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/DUQ.png",
+      "colors": [
+        "#1e65ae",
+        "#bf0f16",
+        "#ffffff"
+      ],
+      "jersey": "football3",
+      "cid": 2,
+      "did": 2,
+      "pop": 2,
+      "stadiumCapacity": 20000,
+      "disabled": false
+    },
+    {
+      "tid": 35,
+      "abbrev": "GUA",
+      "region": "Guarulhos",
+      "name": "Jets",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/GUA.png",
+      "colors": [
+        "#bfe939",
+        "#f66c14",
+        "#000000"
+      ],
+      "jersey": "football4",
+      "cid": 2,
+      "did": 2,
+      "pop": 2,
+      "stadiumCapacity": 20000,
+      "disabled": false
+    },
+    {
+      "tid": 36,
+      "abbrev": "JFA",
+      "region": "Juiz de Fora",
+      "name": "Imperials",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JFA.png",
+      "colors": [
+        "#124882",
+        "#d12b37",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 2,
+      "did": 2,
+      "pop": 2,
+      "stadiumCapacity": 20000,
+      "disabled": false
+    },
+    {
+      "tid": 37,
+      "abbrev": "NOI",
+      "region": "Nova Iguaçu",
+      "name": "Iguanas",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/NOI.png",
+      "colors": [
+        "#198c3c",
+        "#864123",
+        "#01291e"
+      ],
+      "jersey": "football3",
+      "cid": 2,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 38,
+      "abbrev": "OSA",
+      "region": "Osasco",
+      "name": "Bandeirantes",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/OSA.png",
+      "colors": [
+        "#1bad50",
+        "#d4275e",
+        "#000000"
+      ],
+      "jersey": "football2",
+      "cid": 2,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 39,
+      "abbrev": "RPR",
+      "region": "Ribeirão Preto",
+      "name": "Brewers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/RPR.png",
+      "colors": [
+        "#d49933",
+        "#45311b",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 2,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 40,
+      "abbrev": "RJ",
+      "region": "Rio de Janeiro",
+      "name": "Redeemers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/RJ.png",
+      "colors": [
+        "#041138",
+        "#b7b9b8",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 2,
+      "did": 2,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 41,
+      "abbrev": "SAA",
+      "region": "Santo André",
+      "name": "Railers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SAA.png",
+      "colors": [
+        "#ef7628",
+        "#030b32",
+        "#ffffff"
+      ],
+      "jersey": "football4",
+      "cid": 2,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 42,
+      "abbrev": "SGO",
+      "region": "São Gonçalo",
+      "name": "Fishermen",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SGO.png",
+      "colors": [
+        "#7dbbdc",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football4",
+      "cid": 2,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 43,
+      "abbrev": "SP",
+      "region": "São Paulo",
+      "name": "Titans",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SP.png",
+      "colors": [
+        "#a9782a",
+        "#802223",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 2,
+      "did": 2,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 44,
+      "abbrev": "SER",
+      "region": "Serra",
+      "name": "Lynxes",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SER.png",
+      "colors": [
+        "#ffffff",
+        "#010014",
+        "#888984"
+      ],
+      "jersey": "football2",
+      "cid": 2,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 45,
+      "abbrev": "UBE",
+      "region": "Uberlândia",
+      "name": "Tropeiros",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/UBE.png",
+      "colors": [
+        "#891725",
+        "#b39c5d",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 2,
+      "did": 2,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 46,
+      "abbrev": "VIV",
+      "region": "Vila Velha",
+      "name": "Conquistadors",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/VIV.png",
+      "colors": [
+        "#250800",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 2,
+      "did": 2,
+      "pop": 2,
+      "stadiumCapacity": 20000,
+      "disabled": false
+    },
+    {
+      "tid": 47,
+      "abbrev": "VIT",
+      "region": "Vitória",
+      "name": "Admirals",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/VIT.png",
+      "colors": [
+        "#692672",
+        "#0d274e",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 2,
+      "did": 2,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 48,
+      "abbrev": "BLU",
+      "region": "Blumenau",
+      "name": "Oktober",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BLU.png",
+      "colors": [
+        "#54b84a",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "football4",
+      "cid": 3,
+      "did": 3,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 49,
+      "abbrev": "CAN",
+      "region": "Canoas",
+      "name": "Aviators",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAN.png",
+      "colors": [
+        "#eb4444",
+        "#9eceec",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 50,
+      "abbrev": "CAS",
+      "region": "Cascavel",
+      "name": "Vipers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAS.png",
+      "colors": [
+        "#5d9457",
+        "#cccccc",
+        "#000000"
+      ],
+      "jersey": "football4",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 51,
+      "abbrev": "CSU",
+      "region": "Caxias do Sul",
+      "name": "Grapplers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CSU.png",
+      "colors": [
+        "#2c9120",
+        "#000000",
+        "#9dc29a"
+      ],
+      "jersey": "football3",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 52,
+      "abbrev": "CHA",
+      "region": "Chapecó",
+      "name": "Condors",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CHA.png",
+      "colors": [
+        "#4d8147",
+        "#d6a028",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 53,
+      "abbrev": "CUR",
+      "region": "Curitiba",
+      "name": "Araucarias",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CUR.png",
+      "colors": [
+        "#3071b6",
+        "#ffffff",
+        "#308343"
+      ],
+      "jersey": "football3",
+      "cid": 3,
+      "did": 3,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 54,
+      "abbrev": "FLO",
+      "region": "Florianópolis",
+      "name": "Islanders",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FLO.png",
+      "colors": [
+        "#009965",
+        "#d61811",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 3,
+      "did": 3,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 55,
+      "abbrev": "FOI",
+      "region": "Foz do Iguaçu",
+      "name": "Falls",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FOI.png",
+      "colors": [
+        "#bc9a51",
+        "#e31d33",
+        "#59add7"
+      ],
+      "jersey": "football3",
+      "cid": 3,
+      "did": 3,
+      "pop": 2,
+      "stadiumCapacity": 20000,
+      "disabled": false
+    },
+    {
+      "tid": 56,
+      "abbrev": "ITA",
+      "region": "Itajaí",
+      "name": "Dockers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/ITA.png",
+      "colors": [
+        "#88be6d",
+        "#362c22",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 57,
+      "abbrev": "JOI",
+      "region": "Joinville",
+      "name": "Dancers",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JOI.png",
+      "colors": [
+        "#db3b36",
+        "#040203",
+        "#ffffff"
+      ],
+      "jersey": "football4",
+      "cid": 3,
+      "did": 3,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 58,
+      "abbrev": "LON",
+      "region": "Londrina",
+      "name": "Red Sparrows",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/LON.png",
+      "colors": [
+        "#a41a19",
+        "#106733",
+        "#ffffff"
+      ],
+      "jersey": "football3",
+      "cid": 3,
+      "did": 3,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 59,
+      "abbrev": "MAG",
+      "region": "Maringá",
+      "name": "Cathedrals",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAG.png",
+      "colors": [
+        "#205390",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football2",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 60,
+      "abbrev": "PEL",
+      "region": "Pelotas",
+      "name": "Charqueadores",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PEL.png",
+      "colors": [
+        "#d9b964",
+        "#935432",
+        "#000000"
+      ],
+      "jersey": "football",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 61,
+      "abbrev": "PGR",
+      "region": "Ponta Grossa",
+      "name": "Canyoners",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PGR.png",
+      "colors": [
+        "#031126",
+        "#d0efff",
+        "#2168c7"
+      ],
+      "jersey": "football5",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 62,
+      "abbrev": "PA",
+      "region": "Porto Alegre",
+      "name": "Guaíba Guardians",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PA.png",
+      "colors": [
+        "#5bbd78",
+        "#032c30",
+        "#a9aba8"
+      ],
+      "jersey": "football",
+      "cid": 3,
+      "did": 3,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 63,
+      "abbrev": "SJO",
+      "region": "São José",
+      "name": "Azoreans",
+      "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SJO.png",
+      "colors": [
+        "#0e402e",
+        "#d1aa43",
+        "#ffffff"
+      ],
+      "jersey": "football5",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    }
+  ],
+  "gameAttributes": {
+    "aiJerseyRetirement": true,
+    "aiTradesFactor": 1,
+    "allStarGame": -1,
+    "allStarNum": 44,
+    "allStarType": "byConf",
+    "alwaysShowCountry": false,
+    "autoExpandGeo": "naFirst",
+    "autoExpandMaxNumTeams": 40,
+    "autoExpandNumTeams": 2,
+    "autoExpandProb": 0,
+    "autoRelocateGeo": "naFirst",
+    "autoRelocateProb": 0,
+    "autoRelocateRealign": true,
+    "autoRelocateRebrand": true,
+    "brotherRate": 0.005,
+    "budget": true,
+    "challengeFiredLuxuryTax": false,
+    "challengeFiredMissPlayoffs": false,
+    "challengeLoseBestPlayer": false,
+    "challengeNoDraftPicks": false,
+    "challengeNoFreeAgents": false,
+    "challengeNoRatings": false,
+    "challengeNoTrades": false,
+    "challengeSisyphusMode": false,
+    "challengeThanosMode": 0,
+    "completionFactor": 1,
+    "confs": [
+      {
+        "cid": 0,
+        "name": "Centro-Norte"
+      },
+      {
+        "cid": 1,
+        "name": "Nordeste"
+      },
+      {
+        "cid": 2,
+        "name": "Sudeste"
+      },
+      {
+        "cid": 3,
+        "name": "Sul"
+      }
+    ],
+    "currencyFormat": [
+      "$",
+      ".",
+      ""
+    ],
+    "daysLeft": 0,
+    "defaultStadiumCapacity": 70000,
+    "divs": [
+      {
+        "did": 0,
+        "cid": 0,
+        "name": "A"
+      },
+      {
+        "did": 1,
+        "cid": 1,
+        "name": "A"
+      },
+      {
+        "did": 2,
+        "cid": 2,
+        "name": "A"
+      },
+      {
+        "did": 3,
+        "cid": 3,
+        "name": "A"
+      }
+    ],
+    "draftAges": [
+      21,
+      22
+    ],
+    "draftLotteryCustomChances": [
+      140,
+      140,
+      140,
+      125,
+      105,
+      90,
+      75,
+      60,
+      45,
+      30,
+      20,
+      15,
+      10,
+      5
+    ],
+    "draftLotteryCustomNumPicks": 4,
+    "draftPickAutoContract": false,
+    "draftPickAutoContractPercent": 25,
+    "draftPickAutoContractRounds": 1,
+    "draftType": "noLottery",
+    "equalizeRegions": false,
+    "fantasyPoints": "standard",
+    "fgAccuracyFactor": 1,
+    "footballOvertime": "bothPossess",
+    "footballOvertimePlayoffs": "bothPossess",
+    "forceRetireAge": 0,
+    "forceRetireSeasons": 0,
+    "foulRateFactor": 1,
+    "fourthDownFactor": 1,
+    "fumbleFactor": 1,
+    "gender": "male",
+    "giveMeWorstRoster": false,
+    "groupScheduleSeries": false,
+    "heightFactor": 1,
+    "hideDisabledTeams": false,
+    "hofFactor": 1.2,
+    "homeCourtAdvantage": 1,
+    "inflationAvg": 0,
+    "inflationMax": 0,
+    "inflationMin": 0,
+    "inflationStd": 0,
+    "injuryRate": 0.002,
+    "intFactor": 1,
+    "luxuryPayroll": 250000,
+    "luxuryTax": 1.5,
+    "maxContract": 30000,
+    "maxContractLength": 5,
+    "maxOvertimes": 1,
+    "maxOvertimesPlayoffs": null,
+    "maxRosterSize": 55,
+    "minContract": 500,
+    "minContractLength": 1,
+    "minPayroll": 150000,
+    "minRetireAge": 26,
+    "minRosterSize": 40,
+    "neutralSite": "finals",
+    "numDraftRounds": 7,
+    "numGames": 36,
+    "numGamesConf": 30,
+    "numGamesDiv": null,
+    "numGamesPlayoffSeries": [
+      5,
+      3,
+      3,
+      3,
+      1
+    ],
+    "numPeriods": 4,
+    "numPlayoffByes": 0,
+    "numSeasonsFutureDraftPicks": 4,
+    "numWatchColors": 1,
+    "onsideFactor": 1,
+    "onsideRecoveryFactor": 1,
+    "otl": false,
+    "overtimeLength": 10,
+    "overtimeLengthPlayoffs": 15,
+    "pace": 1,
+    "passFactor": 1,
+    "passYdsFactor": 1,
+    "playIn": false,
+    "playerBioInfo": {
+      "frequencies": {
+        "Albania": 0.2,
+        "Algeria": 0.2,
+        "American Samoa": 70,
+        "Angola": 1,
+        "Argentina": 100,
+        "Armenia": 0.2,
+        "Australia": 108,
+        "Austria": 5,
+        "Azerbaijan": 0.2,
+        "Bahamas": 75,
+        "Belarus": 0.2,
+        "Belgium": 1,
+        "Benin": 0.2,
+        "Bolivia": 100,
+        "Bosnia and Herzegovina": 0.2,
+        "Brazil": 10000,
+        "Bulgaria": 0.2,
+        "Cameroon": 2,
+        "Canada": 80,
+        "Cape Verde": 50,
+        "Central African Republic": 0.2,
+        "Chad": 0.2,
+        "Chile": 100,
+        "China": 1,
+        "Colombia": 100,
+        "Congo": 0.2,
+        "Costa Rica": 75,
+        "Croatia": 0.2,
+        "Cuba": 80,
+        "Czech Republic": 0.2,
+        "Denmark": 7,
+        "Dominican Republic": 75,
+        "East Timor": 0.2,
+        "Ecuador": 100,
+        "Egypt": 0.2,
+        "El Salvador": 50,
+        "England": 13,
+        "Estonia": 1,
+        "Ethiopia": 0.2,
+        "Finland": 5,
+        "France": 2,
+        "French Guiana": 40,
+        "Gabon": 0.2,
+        "Georgia": 0.2,
+        "Germany": 31,
+        "Ghana": 3,
+        "Greece": 0.2,
+        "Guadeloupe": 10,
+        "Guatemala": 20,
+        "Guinea": 0.2,
+        "Guinea-Bissau": 0.2,
+        "Haiti": 50,
+        "Honduras": 20,
+        "Hungary": 0.2,
+        "Iceland": 0.2,
+        "India": 0.2,
+        "Indonesia": 0.2,
+        "Iran": 0.2,
+        "Ireland": 1,
+        "Israel": 0.2,
+        "Italy": 4,
+        "Ivory Coast": 0.2,
+        "Jamaica": 0.2,
+        "Japan": 25,
+        "Kazakhstan": 0.2,
+        "Kenya": 1,
+        "Kosovo": 0.2,
+        "Kyrgyzstan": 0.2,
+        "Laos": 0.2,
+        "Latvia": 1,
+        "Liberia": 1,
+        "Lithuania": 0.2,
+        "Luxembourg": 0.2,
+        "Macau": 0.2,
+        "Mali": 0.2,
+        "Mexico": 50,
+        "Moldova": 1,
+        "Montenegro": 0.2,
+        "Morocco": 0.2,
+        "Mozambique": 0.2,
+        "Nepal": 0.2,
+        "Netherlands": 9,
+        "New Zealand": 4,
+        "Nicaragua": 15,
+        "Nigeria": 25,
+        "North Korea": 0.2,
+        "North Macedonia": 0.2,
+        "Norway": 2,
+        "Pakistan": 0.2,
+        "Panama": 15,
+        "Papua New Guinea": 0.2,
+        "Paraguay": 80,
+        "Peru": 80,
+        "Philippines": 0.2,
+        "Poland": 0.2,
+        "Portugal": 50,
+        "Puerto Rico": 25,
+        "Romania": 0.2,
+        "Russia": 2,
+        "Samoa": 1,
+        "Scotland": 2,
+        "Senegal": 0.2,
+        "Serbia": 1,
+        "Slovakia": 1,
+        "Slovenia": 0.2,
+        "South Africa": 4,
+        "South Korea": 1,
+        "South Sudan": 0.2,
+        "Spain": 0.2,
+        "Sudan": 0.2,
+        "Sweden": 13,
+        "Switzerland": 2,
+        "Taiwan": 0.2,
+        "Thailand": 0.2,
+        "Trinidad and Tobago": 10,
+        "Turkey": 0.2,
+        "USA": 100,
+        "Ukraine": 0.2,
+        "Uruguay": 100,
+        "Uzbekistan": 0.2,
+        "Venezuela": 120,
+        "Vietnam": 0.2,
+        "Virgin Islands": 1,
+        "Wales": 0.2
+      }
+    },
+    "playerMoodTraits": true,
+    "playersRefuseToNegotiate": true,
+    "playoffsByConf": true,
+    "playoffsNumTeamsDiv": 1,
+    "playoffsReseed": true,
+    "pointsFormula": "2*W+T",
+    "quarterLength": 15,
+    "rookieContractLengths": [
+      3,
+      2
+    ],
+    "rookiesCanRefuse": true,
+    "rushYdsFactor": 1,
+    "sackFactor": 1,
+    "salaryCap": 200000,
+    "salaryCapType": "hard",
+    "saveOldBoxScores": {
+      "pastSeasons": 2,
+      "pastSeasonsType": "all",
+      "note": "all"
+    },
+    "scrambleFactor": 1,
+    "scrimmageTouchbackKickoff": 35,
+    "shootoutRounds": 0,
+    "shootoutRoundsPlayoffs": 0,
+    "softCapTradeSalaryMatch": 125,
+    "sonRate": 0.005,
+    "spectator": true,
+    "stopOnInjury": false,
+    "stopOnInjuryGames": 1,
+    "tiebreakers": [
+      "headToHeadRecord",
+      "divRecordIfSame",
+      "commonOpponentsRecord",
+      "confRecordIfSame",
+      "strengthOfVictory",
+      "strengthOfSchedule",
+      "marginOfVictory",
+      "coinFlip"
+    ],
+    "tradeDeadline": 0.75,
+    "tragicDeathRate": 0.001,
+    "twoPointConversions": true,
+    "weightFactor": 1
+  }
+}
