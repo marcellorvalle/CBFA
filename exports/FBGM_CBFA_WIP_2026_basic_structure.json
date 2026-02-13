@@ -1,0 +1,122 @@
+{
+  "version": 69,
+  "meta": {
+    "name": "CBFA-WIP"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "abbrev": "ANA",
+      "region": "Ananindeua",
+      "name": "Uirapuru Warriors",
+      "imgURL": "",
+      "colors": [
+        "#000000",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 0,
+      "did": 0,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    },
+    {
+      "tid": 1,
+      "abbrev": "ARA",
+      "region": "Aracaju",
+      "name": "Atobás",
+      "imgURL": "",
+      "colors": [
+        "#000000",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 1,
+      "did": 1,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 2,
+      "abbrev": "BH",
+      "region": "Belo Horizonte",
+      "name": "Iron fists",
+      "imgURL": "",
+      "colors": [
+        "#000000",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 2,
+      "did": 2,
+      "pop": 5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 3,
+      "abbrev": "BLU",
+      "region": "Blumenau",
+      "name": "Oktober",
+      "imgURL": "",
+      "colors": [
+        "#000000",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "jersey": "football",
+      "cid": 3,
+      "did": 3,
+      "pop": 1,
+      "stadiumCapacity": 10000,
+      "disabled": false
+    }
+  ],
+  "gameAttributes": {
+    "confs": [
+      {
+        "cid": 0,
+        "name": "Centro-Norte"
+      },
+      {
+        "cid": 1,
+        "name": "Nordeste"
+      },
+      {
+        "cid": 2,
+        "name": "Sudeste"
+      },
+      {
+        "cid": 3,
+        "name": "Sul"
+      }
+    ],
+    "divs": [
+      {
+        "did": 0,
+        "cid": 0,
+        "name": "A"
+      },
+      {
+        "did": 1,
+        "cid": 1,
+        "name": "A"
+      },
+      {
+        "did": 2,
+        "cid": 2,
+        "name": "A"
+      },
+      {
+        "did": 3,
+        "cid": 3,
+        "name": "A"
+      }
+    ]
+  }
+}
