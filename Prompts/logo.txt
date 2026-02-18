@@ -1,0 +1,21 @@
+
+Crie um logo profissional de time de futebol americano para uma liga fictícia.
+
+Nome do clube: **[NOME_DO_CLUBE]**
+Cores oficiais: **[CORES_DO_CLUBE]**
+Símbolos ou elementos em destaque: **[SIMBOLOS_EM_DESTAQUE]**
+
+O design deve seguir o estilo de logos esportivos profissionais da NFL: visual forte, moderno, agressivo e de alto impacto visual. Utilize traços marcantes, formas bem definidas, alto contraste e composição equilibrada. O nome do clube deve estar integrado ao símbolo de forma harmônica, podendo utilizar tipografia esportiva estilizada.
+
+O símbolo principal deve ser dominante e facilmente reconhecível, com aparência vetorial limpa, bordas bem definidas e sem ruídos.
+
+Requisitos técnicos:
+
+* Fundo totalmente transparente
+* Formato PNG
+* Alta resolução
+* Estilo vetorial
+* Sem sombras realistas ou efeitos fotográficos
+* Sem mockups (apenas o logo isolado)
+
+O resultado deve parecer um logo oficial pronto para uso em uniformes, capacetes e materiais de marketing esportivo.

@@ -1,0 +1,20 @@
+Crie um logo extremamente simples, minimalista e vetorial para um time fictício de futebol americano.
+Este logo será usado como ícone em um jogo, portanto deve:
+
+Considerar apenas os elementos principais da identidade visual
+Use as cores da imagem de referencia
+Bom contraste
+Ter formas sólidas e bem definidas
+A borda do logo deve ser branca
+Poucos detalhes internos
+Ser facilmente reconhecível mesmo em tamanhos pequenos
+Ter silhueta forte e legível
+Estilo flat design
+Sem texturas, sem sombras realistas, sem degradês complexos
+Fundo sólido cor verde-limão (A cor de fundo não deve aparecer no logo)
+A imagem deve ser quadrada
+Não usar texto na imagem gerada
+Reduzir detalhes secundários
+Linhas grossas e limpas
+Visual semelhante a ícones esportivos usados em jogos estilo arcade
+O resultado deve parecer um símbolo compacto e memorável, não um brasão detalhado.
