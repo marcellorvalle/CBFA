@@ -1,7 +1,7 @@
 {
   "version": 69,
   "meta": {
-    "name": "CBFA-WIP"
+    "name": "CBFA"
   },
   "teams": [
     {
@@ -10,6 +10,7 @@
       "region": "Ananindeua",
       "name": "Uirapuru Warriors",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/ANA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/ANA.png",
       "colors": [
         "#ffee33",
         "#72b7f3",
@@ -28,6 +29,7 @@
       "region": "Belém",
       "name": "Islanders",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BEL.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/BEL.png",
       "colors": [
         "#2a4bd7",
         "#d80d0d",
@@ -46,6 +48,7 @@
       "region": "Brasília",
       "name": "Planalto Hawks",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BRA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/BRA.png",
       "colors": [
         "#ffee33",
         "#228017",
@@ -64,6 +67,7 @@
       "region": "Boa Vista",
       "name": "Peakers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BVI.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/BVI.png",
       "colors": [
         "#2d8d20",
         "#dfd02c",
@@ -82,6 +86,7 @@
       "region": "Campo Grande",
       "name": "Guarani Stallions",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CGR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CGR.png",
       "colors": [
         "#ad2323",
         "#ffee33",
@@ -100,6 +105,7 @@
       "region": "Cuiabá",
       "name": "Pantanal Gators",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CUI.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CUI.png",
       "colors": [
         "#23701a",
         "#ffee33",
@@ -118,6 +124,7 @@
       "region": "Dourados",
       "name": "Golden Harvest",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/DOU.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/DOU.png",
       "colors": [
         "#fda202",
         "#153e82",
@@ -136,6 +143,7 @@
       "region": "Goiânia",
       "name": "Cerrado Bulls",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/GOI.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/GOI.png",
       "colors": [
         "#b20f06",
         "#002c0f",
@@ -154,6 +162,7 @@
       "region": "Luziânia",
       "name": "Bandeira Braves",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/LUZ.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/LUZ.png",
       "colors": [
         "#184598",
         "#c7110b",
@@ -172,6 +181,7 @@
       "region": "Manaus",
       "name": "Black Jaguars",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAN.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/MAN.png",
       "colors": [
         "#f7c235",
         "#023b18",
@@ -190,6 +200,7 @@
       "region": "Macapá",
       "name": "Equator Sentinels",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAP.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/MAP.png",
       "colors": [
         "#ec9e05",
         "#2f7741",
@@ -208,6 +219,7 @@
       "region": "Marabá",
       "name": "Carajás Iron",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/MAR.png",
       "colors": [
         "#f3456b",
         "#094d1b",
@@ -226,6 +238,7 @@
       "region": "Palmas",
       "name": "Jalapão Fire",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PAL.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/PAL.png",
       "colors": [
         "#e4353d",
         "#236aa7",
@@ -244,6 +257,7 @@
       "region": "Porto Velho",
       "name": "Madeira Pioneers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PVE.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/PVE.png",
       "colors": [
         "#fcdd11",
         "#69c8f7",
@@ -262,6 +276,7 @@
       "region": "Rio Branco",
       "name": "Frontiers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/RBR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/RBR.png",
       "colors": [
         "#f0170f",
         "#000000",
@@ -280,6 +295,7 @@
       "region": "Santarém",
       "name": "Tapajós Arrows",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SAN.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SAN.png",
       "colors": [
         "#f32321",
         "#fae749",
@@ -298,6 +314,7 @@
       "region": "Aracaju",
       "name": "Atobás",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/ARA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/ARA.png",
       "colors": [
         "#1d6914",
         "#ffffff",
@@ -316,6 +333,7 @@
       "region": "Campina Grande",
       "name": "Peregrinos",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAG.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CAG.png",
       "colors": [
         "#000000",
         "#cccccc",
@@ -334,6 +352,7 @@
       "region": "Caruaru",
       "name": "Forró Kings",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CAR.png",
       "colors": [
         "#a28932",
         "#17276d",
@@ -352,6 +371,7 @@
       "region": "Feira de Santana",
       "name": "Vaqueiros",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FSA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/FSA.png",
       "colors": [
         "#c32d29",
         "#0d6a41",
@@ -370,6 +390,7 @@
       "region": "Fortaleza",
       "name": "Dragões do Mar",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FOR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/FOR.png",
       "colors": [
         "#00b5a1",
         "#fe4245",
@@ -388,6 +409,7 @@
       "region": "Imperatriz",
       "name": "Tocantins Titans",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/IMP.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/IMP.png",
       "colors": [
         "#e0502d",
         "#32bbc4",
@@ -406,6 +428,7 @@
       "region": "João Pessoa",
       "name": "Tabajaras",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JPE.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/JPE.png",
       "colors": [
         "#b42027",
         "#cccccc",
@@ -424,6 +447,7 @@
       "region": "Juazeiro",
       "name": "River Saints",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JUA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/JUA.png",
       "colors": [
         "#d1c27e",
         "#a97e4b",
@@ -442,6 +466,7 @@
       "region": "Maceió",
       "name": "Coral Reefs",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAC.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/MAC.png",
       "colors": [
         "#fbee5c",
         "#f9331f",
@@ -460,6 +485,7 @@
       "region": "Mossoró",
       "name": "Salt Raiders",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MOS.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/MOS.png",
       "colors": [
         "#102551",
         "#cca552",
@@ -478,6 +504,7 @@
       "region": "Natal",
       "name": "Dune Riders",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/NAT.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/NAT.png",
       "colors": [
         "#79ab43",
         "#0e2a44",
@@ -496,6 +523,7 @@
       "region": "Petrolina",
       "name": "Sertão Stallions",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PET.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/PET.png",
       "colors": [
         "#afb4b8",
         "#050e3c",
@@ -514,6 +542,7 @@
       "region": "Recife",
       "name": "Mangrove Sharks",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/REC.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/REC.png",
       "colors": [
         "#0e1c61",
         "#e3cb38",
@@ -532,6 +561,7 @@
       "region": "Salvador",
       "name": "Pelourinho Knights",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SAL.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SAL.png",
       "colors": [
         "#340e74",
         "#b8c0ce",
@@ -550,6 +580,7 @@
       "region": "São Luís",
       "name": "Lençóis Guardians",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SLU.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SLU.png",
       "colors": [
         "#01242a",
         "#f9ebb2",
@@ -568,6 +599,7 @@
       "region": "Teresina",
       "name": "Carnaúba Warriors",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/TER.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/TER.png",
       "colors": [
         "#1f53a5",
         "#c69f63",
@@ -586,6 +618,7 @@
       "region": "Belo Horizonte",
       "name": "Iron Fists",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BH.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/BH.png",
       "colors": [
         "#ad2323",
         "#ffee33",
@@ -604,6 +637,7 @@
       "region": "Campinas",
       "name": "Gold Panthers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAM.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CAM.png",
       "colors": [
         "#f3c463",
         "#000000",
@@ -622,6 +656,7 @@
       "region": "Duque de Caxias",
       "name": "Grenadiers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/DUQ.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/DUQ.png",
       "colors": [
         "#1e65ae",
         "#bf0f16",
@@ -640,6 +675,7 @@
       "region": "Guarulhos",
       "name": "Jets",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/GUA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/GUA.png",
       "colors": [
         "#bfe939",
         "#f66c14",
@@ -658,6 +694,7 @@
       "region": "Juiz de Fora",
       "name": "Imperials",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JFA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/JFA.png",
       "colors": [
         "#124882",
         "#d12b37",
@@ -676,6 +713,7 @@
       "region": "Nova Iguaçu",
       "name": "Iguanas",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/NOI.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/NOI.png",
       "colors": [
         "#198c3c",
         "#864123",
@@ -694,6 +732,7 @@
       "region": "Osasco",
       "name": "Bandeirantes",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/OSA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/OSA.png",
       "colors": [
         "#1bad50",
         "#d4275e",
@@ -712,6 +751,7 @@
       "region": "Ribeirão Preto",
       "name": "Brewers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/RPR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/RPR.png",
       "colors": [
         "#d49933",
         "#45311b",
@@ -730,6 +770,7 @@
       "region": "Rio de Janeiro",
       "name": "Redeemers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/RJ.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/RJ.png",
       "colors": [
         "#041138",
         "#b7b9b8",
@@ -748,6 +789,7 @@
       "region": "Santo André",
       "name": "Railers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SAA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SAA.png",
       "colors": [
         "#ef7628",
         "#030b32",
@@ -766,6 +808,7 @@
       "region": "São Gonçalo",
       "name": "Fishermen",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SGO.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SGO.png",
       "colors": [
         "#7dbbdc",
         "#cccccc",
@@ -784,6 +827,7 @@
       "region": "São Paulo",
       "name": "Titans",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SP.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SP.png",
       "colors": [
         "#a9782a",
         "#802223",
@@ -802,6 +846,7 @@
       "region": "Serra",
       "name": "Lynxes",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SER.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SER.png",
       "colors": [
         "#ffffff",
         "#010014",
@@ -820,6 +865,7 @@
       "region": "Uberlândia",
       "name": "Tropeiros",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/UBE.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/UBE.png",
       "colors": [
         "#891725",
         "#b39c5d",
@@ -838,6 +884,7 @@
       "region": "Vila Velha",
       "name": "Conquistadors",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/VIV.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/VIV.png",
       "colors": [
         "#250800",
         "#cccccc",
@@ -856,6 +903,7 @@
       "region": "Vitória",
       "name": "Admirals",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/VIT.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/VIT.png",
       "colors": [
         "#692672",
         "#0d274e",
@@ -874,6 +922,7 @@
       "region": "Blumenau",
       "name": "Oktober",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/BLU.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/BLU.png",
       "colors": [
         "#54b84a",
         "#ffffff",
@@ -892,6 +941,7 @@
       "region": "Canoas",
       "name": "Aviators",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAN.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CAN.png",
       "colors": [
         "#eb4444",
         "#9eceec",
@@ -910,6 +960,7 @@
       "region": "Cascavel",
       "name": "Vipers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CAS.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CAS.png",
       "colors": [
         "#5d9457",
         "#cccccc",
@@ -928,6 +979,7 @@
       "region": "Caxias do Sul",
       "name": "Grapplers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CSU.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CSU.png",
       "colors": [
         "#2c9120",
         "#000000",
@@ -946,6 +998,7 @@
       "region": "Chapecó",
       "name": "Condors",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CHA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CHA.png",
       "colors": [
         "#4d8147",
         "#d6a028",
@@ -964,6 +1017,7 @@
       "region": "Curitiba",
       "name": "Araucarias",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/CUR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/CUR.png",
       "colors": [
         "#3071b6",
         "#ffffff",
@@ -982,6 +1036,7 @@
       "region": "Florianópolis",
       "name": "Islanders",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FLO.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/FLO.png",
       "colors": [
         "#009965",
         "#d61811",
@@ -1000,6 +1055,7 @@
       "region": "Foz do Iguaçu",
       "name": "Falls",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/FOI.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/FOI.png",
       "colors": [
         "#bc9a51",
         "#e31d33",
@@ -1018,6 +1074,7 @@
       "region": "Itajaí",
       "name": "Dockers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/ITA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/ITA.png",
       "colors": [
         "#88be6d",
         "#362c22",
@@ -1036,6 +1093,7 @@
       "region": "Joinville",
       "name": "Dancers",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/JOI.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/JOI.png",
       "colors": [
         "#db3b36",
         "#040203",
@@ -1054,6 +1112,7 @@
       "region": "Londrina",
       "name": "Red Sparrows",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/LON.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/LON.png",
       "colors": [
         "#a41a19",
         "#106733",
@@ -1072,6 +1131,7 @@
       "region": "Maringá",
       "name": "Cathedrals",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/MAG.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/MAG.png",
       "colors": [
         "#205390",
         "#cccccc",
@@ -1090,6 +1150,7 @@
       "region": "Pelotas",
       "name": "Charqueadores",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PEL.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/PEL.png",
       "colors": [
         "#d9b964",
         "#935432",
@@ -1108,6 +1169,7 @@
       "region": "Ponta Grossa",
       "name": "Canyoners",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PGR.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/PGR.png",
       "colors": [
         "#031126",
         "#d0efff",
@@ -1126,6 +1188,7 @@
       "region": "Porto Alegre",
       "name": "Guaíba Guardians",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/PA.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/PA.png",
       "colors": [
         "#5bbd78",
         "#032c30",
@@ -1144,6 +1207,7 @@
       "region": "São José",
       "name": "Azoreans",
       "imgURL": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/SJO.png",
+      "imgURLSmall": "https://raw.githubusercontent.com/marcellorvalle/CBFA/refs/heads/main/logos/small/SJO.png",
       "colors": [
         "#0e402e",
         "#d1aa43",
