@@ -19,8 +19,8 @@
       "jersey": "football2",
       "cid": 0,
       "did": 0,
-      "pop": 0.995216,
-      "stadiumCapacity": 10000,
+      "pop": 1.8806,
+      "stadiumCapacity": 98400,
       "disabled": false
     },
     {
@@ -38,8 +38,8 @@
       "jersey": "football5",
       "cid": 0,
       "did": 0,
-      "pop": 4.987061,
-      "stadiumCapacity": 50000,
+      "pop": 4.4741,
+      "stadiumCapacity": 96600,
       "disabled": false
     },
     {
@@ -57,8 +57,8 @@
       "jersey": "football5",
       "cid": 0,
       "did": 0,
-      "pop": 5.121501,
-      "stadiumCapacity": 50000,
+      "pop": 8.7724,
+      "stadiumCapacity": 105300,
       "disabled": false
     },
     {
@@ -76,8 +76,8 @@
       "jersey": "football3",
       "cid": 0,
       "did": 0,
-      "pop": 4.905,
-      "stadiumCapacity": 50000,
+      "pop": 1.5826,
+      "stadiumCapacity": 91050,
       "disabled": false
     },
     {
@@ -95,8 +95,8 @@
       "jersey": "football3",
       "cid": 0,
       "did": 0,
-      "pop": 4.852153,
-      "stadiumCapacity": 50000,
+      "pop": 2.922,
+      "stadiumCapacity": 91950,
       "disabled": false
     },
     {
@@ -114,8 +114,8 @@
       "jersey": "football5",
       "cid": 0,
       "did": 0,
-      "pop": 5.163321,
-      "stadiumCapacity": 50000,
+      "pop": 2.1702,
+      "stadiumCapacity": 91350,
       "disabled": false
     },
     {
@@ -133,8 +133,8 @@
       "jersey": "football4",
       "cid": 0,
       "did": 0,
-      "pop": 5.191509,
-      "stadiumCapacity": 50000,
+      "pop": 1.2298,
+      "stadiumCapacity": 93900,
       "disabled": false
     },
     {
@@ -152,8 +152,8 @@
       "jersey": "football2",
       "cid": 0,
       "did": 0,
-      "pop": 1.001928,
-      "stadiumCapacity": 10000,
+      "pop": 4.6202,
+      "stadiumCapacity": 100050,
       "disabled": false
     },
     {
@@ -171,8 +171,8 @@
       "jersey": "football2",
       "cid": 0,
       "did": 0,
-      "pop": 5.028582,
-      "stadiumCapacity": 50000,
+      "pop": 1.2183,
+      "stadiumCapacity": 114000,
       "disabled": false
     },
     {
@@ -190,8 +190,8 @@
       "jersey": "football4",
       "cid": 0,
       "did": 0,
-      "pop": 5.335822,
-      "stadiumCapacity": 50000,
+      "pop": 6.3955,
+      "stadiumCapacity": 98100,
       "disabled": false
     },
     {
@@ -209,8 +209,8 @@
       "jersey": "football3",
       "cid": 0,
       "did": 0,
-      "pop": 1.009654,
-      "stadiumCapacity": 10000,
+      "pop": 1.8178,
+      "stadiumCapacity": 96150,
       "disabled": false
     },
     {
@@ -228,8 +228,8 @@
       "jersey": "football2",
       "cid": 0,
       "did": 0,
-      "pop": 4.938344,
-      "stadiumCapacity": 50000,
+      "pop": 1.2515,
+      "stadiumCapacity": 95700,
       "disabled": false
     },
     {
@@ -247,8 +247,8 @@
       "jersey": "football",
       "cid": 0,
       "did": 0,
-      "pop": 4.878974,
-      "stadiumCapacity": 50000,
+      "pop": 1.2691,
+      "stadiumCapacity": 90450,
       "disabled": false
     },
     {
@@ -266,8 +266,8 @@
       "jersey": "football5",
       "cid": 0,
       "did": 0,
-      "pop": 5.072062,
-      "stadiumCapacity": 50000,
+      "pop": 1.9104,
+      "stadiumCapacity": 88950,
       "disabled": false
     },
     {
@@ -285,8 +285,8 @@
       "jersey": "football5",
       "cid": 0,
       "did": 0,
-      "pop": 5.060411,
-      "stadiumCapacity": 50000,
+      "pop": 1.5205,
+      "stadiumCapacity": 94650,
       "disabled": false
     },
     {
@@ -304,8 +304,8 @@
       "jersey": "football3",
       "cid": 0,
       "did": 0,
-      "pop": 1.021449,
-      "stadiumCapacity": 10000,
+      "pop": 1.2488,
+      "stadiumCapacity": 94200,
       "disabled": false
     },
     {
@@ -323,8 +323,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 4.85312,
-      "stadiumCapacity": 50000,
+      "pop": 2.2432,
+      "stadiumCapacity": 96600,
       "disabled": false
     },
     {
@@ -342,8 +342,8 @@
       "jersey": "football4",
       "cid": 1,
       "did": 1,
-      "pop": 1.019167,
-      "stadiumCapacity": 10000,
+      "pop": 1.5001,
+      "stadiumCapacity": 107250,
       "disabled": false
     },
     {
@@ -361,8 +361,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 0.993975,
-      "stadiumCapacity": 10000,
+      "pop": 1.446,
+      "stadiumCapacity": 92400,
       "disabled": false
     },
     {
@@ -380,8 +380,8 @@
       "jersey": "football5",
       "cid": 1,
       "did": 1,
-      "pop": 0.963114,
-      "stadiumCapacity": 10000,
+      "pop": 2.1719,
+      "stadiumCapacity": 102300,
       "disabled": false
     },
     {
@@ -399,8 +399,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 5.090889,
-      "stadiumCapacity": 50000,
+      "pop": 7.6641,
+      "stadiumCapacity": 102000,
       "disabled": false
     },
     {
@@ -418,8 +418,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 1.012342,
-      "stadiumCapacity": 10000,
+      "pop": 1.2475,
+      "stadiumCapacity": 90750,
       "disabled": false
     },
     {
@@ -437,8 +437,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 4.923711,
-      "stadiumCapacity": 50000,
+      "pop": 2.754,
+      "stadiumCapacity": 93750,
       "disabled": false
     },
     {
@@ -456,8 +456,8 @@
       "jersey": "football",
       "cid": 1,
       "did": 1,
-      "pop": 1.033466,
-      "stadiumCapacity": 10000,
+      "pop": 1.2446,
+      "stadiumCapacity": 99750,
       "disabled": false
     },
     {
@@ -475,8 +475,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 5.163154,
-      "stadiumCapacity": 50000,
+      "pop": 3.0638,
+      "stadiumCapacity": 94950,
       "disabled": false
     },
     {
@@ -494,8 +494,8 @@
       "jersey": "football5",
       "cid": 1,
       "did": 1,
-      "pop": 0.969695,
-      "stadiumCapacity": 10000,
+      "pop": 1.2304,
+      "stadiumCapacity": 95550,
       "disabled": false
     },
     {
@@ -513,8 +513,8 @@
       "jersey": "football5",
       "cid": 1,
       "did": 1,
-      "pop": 5.015837,
-      "stadiumCapacity": 50000,
+      "pop": 2.8605,
+      "stadiumCapacity": 90900,
       "disabled": false
     },
     {
@@ -532,8 +532,8 @@
       "jersey": "football2",
       "cid": 1,
       "did": 1,
-      "pop": 1.012925,
-      "stadiumCapacity": 10000,
+      "pop": 1.4069,
+      "stadiumCapacity": 96450,
       "disabled": false
     },
     {
@@ -551,8 +551,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 4.846049,
-      "stadiumCapacity": 50000,
+      "pop": 4.9332,
+      "stadiumCapacity": 95850,
       "disabled": false
     },
     {
@@ -570,8 +570,8 @@
       "jersey": "football3",
       "cid": 1,
       "did": 1,
-      "pop": 5.041689,
-      "stadiumCapacity": 50000,
+      "pop": 8.2224,
+      "stadiumCapacity": 95550,
       "disabled": false
     },
     {
@@ -589,8 +589,8 @@
       "jersey": "football",
       "cid": 1,
       "did": 1,
-      "pop": 5.000008,
-      "stadiumCapacity": 50000,
+      "pop": 3.3143,
+      "stadiumCapacity": 91950,
       "disabled": false
     },
     {
@@ -608,8 +608,8 @@
       "jersey": "football",
       "cid": 1,
       "did": 1,
-      "pop": 5.142408,
-      "stadiumCapacity": 50000,
+      "pop": 2.7789,
+      "stadiumCapacity": 111750,
       "disabled": false
     },
     {
@@ -627,8 +627,8 @@
       "jersey": "football3",
       "cid": 2,
       "did": 2,
-      "pop": 5.186173,
-      "stadiumCapacity": 50000,
+      "pop": 7.1745,
+      "stadiumCapacity": 106050,
       "disabled": false
     },
     {
@@ -646,8 +646,8 @@
       "jersey": "football",
       "cid": 2,
       "did": 2,
-      "pop": 1.990786,
-      "stadiumCapacity": 20000,
+      "pop": 3.633,
+      "stadiumCapacity": 92100,
       "disabled": false
     },
     {
@@ -665,8 +665,8 @@
       "jersey": "football3",
       "cid": 2,
       "did": 2,
-      "pop": 2.103655,
-      "stadiumCapacity": 20000,
+      "pop": 2.9649,
+      "stadiumCapacity": 96450,
       "disabled": false
     },
     {
@@ -684,8 +684,8 @@
       "jersey": "football4",
       "cid": 2,
       "did": 2,
-      "pop": 2.005605,
-      "stadiumCapacity": 20000,
+      "pop": 4.1719,
+      "stadiumCapacity": 95550,
       "disabled": false
     },
     {
@@ -703,8 +703,8 @@
       "jersey": "football5",
       "cid": 2,
       "did": 2,
-      "pop": 2.059958,
-      "stadiumCapacity": 20000,
+      "pop": 2.0098,
+      "stadiumCapacity": 98550,
       "disabled": false
     },
     {
@@ -722,8 +722,8 @@
       "jersey": "football3",
       "cid": 2,
       "did": 2,
-      "pop": 0.974002,
-      "stadiumCapacity": 10000,
+      "pop": 2.7527,
+      "stadiumCapacity": 97500,
       "disabled": false
     },
     {
@@ -741,8 +741,8 @@
       "jersey": "football2",
       "cid": 2,
       "did": 2,
-      "pop": 1.002217,
-      "stadiumCapacity": 10000,
+      "pop": 2.3393,
+      "stadiumCapacity": 97350,
       "disabled": false
     },
     {
@@ -760,8 +760,8 @@
       "jersey": "football",
       "cid": 2,
       "did": 2,
-      "pop": 0.975741,
-      "stadiumCapacity": 10000,
+      "pop": 2.4016,
+      "stadiumCapacity": 92850,
       "disabled": false
     },
     {
@@ -779,8 +779,8 @@
       "jersey": "football2",
       "cid": 2,
       "did": 2,
-      "pop": 5.150356,
-      "stadiumCapacity": 50000,
+      "pop": 15.6515,
+      "stadiumCapacity": 115950,
       "disabled": false
     },
     {
@@ -798,8 +798,8 @@
       "jersey": "football4",
       "cid": 2,
       "did": 2,
-      "pop": 0.998612,
-      "stadiumCapacity": 10000,
+      "pop": 2.4142,
+      "stadiumCapacity": 97950,
       "disabled": false
     },
     {
@@ -817,8 +817,8 @@
       "jersey": "football4",
       "cid": 2,
       "did": 2,
-      "pop": 1.017987,
-      "stadiumCapacity": 10000,
+      "pop": 3.2621,
+      "stadiumCapacity": 97350,
       "disabled": false
     },
     {
@@ -836,8 +836,8 @@
       "jersey": "football2",
       "cid": 2,
       "did": 2,
-      "pop": 5.021227,
-      "stadiumCapacity": 50000,
+      "pop": 25.0407,
+      "stadiumCapacity": 121650,
       "disabled": false
     },
     {
@@ -855,8 +855,8 @@
       "jersey": "football2",
       "cid": 2,
       "did": 2,
-      "pop": 0.982826,
-      "stadiumCapacity": 10000,
+      "pop": 1.8679,
+      "stadiumCapacity": 109500,
       "disabled": false
     },
     {
@@ -874,8 +874,8 @@
       "jersey": "football",
       "cid": 2,
       "did": 2,
-      "pop": 1.016588,
-      "stadiumCapacity": 10000,
+      "pop": 2.3565,
+      "stadiumCapacity": 97200,
       "disabled": false
     },
     {
@@ -893,8 +893,8 @@
       "jersey": "football2",
       "cid": 2,
       "did": 2,
-      "pop": 2.063458,
-      "stadiumCapacity": 20000,
+      "pop": 1.7701,
+      "stadiumCapacity": 87900,
       "disabled": false
     },
     {
@@ -912,8 +912,8 @@
       "jersey": "football",
       "cid": 2,
       "did": 2,
-      "pop": 4.834419,
-      "stadiumCapacity": 50000,
+      "pop": 1.4467,
+      "stadiumCapacity": 93750,
       "disabled": false
     },
     {
@@ -931,8 +931,8 @@
       "jersey": "football4",
       "cid": 3,
       "did": 3,
-      "pop": 4.929372,
-      "stadiumCapacity": 50000,
+      "pop": 1.4345,
+      "stadiumCapacity": 102000,
       "disabled": false
     },
     {
@@ -950,8 +950,8 @@
       "jersey": "football2",
       "cid": 3,
       "did": 3,
-      "pop": 0.952948,
-      "stadiumCapacity": 10000,
+      "pop": 1.3692,
+      "stadiumCapacity": 88500,
       "disabled": false
     },
     {
@@ -969,8 +969,8 @@
       "jersey": "football4",
       "cid": 3,
       "did": 3,
-      "pop": 1.006418,
-      "stadiumCapacity": 10000,
+      "pop": 1.3157,
+      "stadiumCapacity": 97950,
       "disabled": false
     },
     {
@@ -988,8 +988,8 @@
       "jersey": "football3",
       "cid": 3,
       "did": 3,
-      "pop": 0.986076,
-      "stadiumCapacity": 10000,
+      "pop": 1.8225,
+      "stadiumCapacity": 91500,
       "disabled": false
     },
     {
@@ -1007,8 +1007,8 @@
       "jersey": "football5",
       "cid": 3,
       "did": 3,
-      "pop": 0.998547,
-      "stadiumCapacity": 10000,
+      "pop": 1.2335,
+      "stadiumCapacity": 93600,
       "disabled": false
     },
     {
@@ -1026,8 +1026,8 @@
       "jersey": "football3",
       "cid": 3,
       "did": 3,
-      "pop": 5.043496,
-      "stadiumCapacity": 50000,
+      "pop": 5.5672,
+      "stadiumCapacity": 98550,
       "disabled": false
     },
     {
@@ -1045,8 +1045,8 @@
       "jersey": "football",
       "cid": 3,
       "did": 3,
-      "pop": 5.122947,
-      "stadiumCapacity": 50000,
+      "pop": 1.7975,
+      "stadiumCapacity": 94500,
       "disabled": false
     },
     {
@@ -1064,8 +1064,8 @@
       "jersey": "football3",
       "cid": 3,
       "did": 3,
-      "pop": 1.958844,
-      "stadiumCapacity": 20000,
+      "pop": 1.2286,
+      "stadiumCapacity": 95550,
       "disabled": false
     },
     {
@@ -1083,8 +1083,8 @@
       "jersey": "football2",
       "cid": 3,
       "did": 3,
-      "pop": 0.977566,
-      "stadiumCapacity": 10000,
+      "pop": 1.2874,
+      "stadiumCapacity": 93150,
       "disabled": false
     },
     {
@@ -1102,8 +1102,8 @@
       "jersey": "football4",
       "cid": 3,
       "did": 3,
-      "pop": 5.275196,
-      "stadiumCapacity": 50000,
+      "pop": 2.1044,
+      "stadiumCapacity": 94200,
       "disabled": false
     },
     {
@@ -1121,8 +1121,8 @@
       "jersey": "football3",
       "cid": 3,
       "did": 3,
-      "pop": 5.14814,
-      "stadiumCapacity": 50000,
+      "pop": 2.0214,
+      "stadiumCapacity": 96900,
       "disabled": false
     },
     {
@@ -1140,8 +1140,8 @@
       "jersey": "football2",
       "cid": 3,
       "did": 3,
-      "pop": 1.011691,
-      "stadiumCapacity": 10000,
+      "pop": 1.5822,
+      "stadiumCapacity": 91350,
       "disabled": false
     },
     {
@@ -1159,8 +1159,8 @@
       "jersey": "football",
       "cid": 3,
       "did": 3,
-      "pop": 0.968766,
-      "stadiumCapacity": 10000,
+      "pop": 1.3461,
+      "stadiumCapacity": 99450,
       "disabled": false
     },
     {
@@ -1178,8 +1178,8 @@
       "jersey": "football5",
       "cid": 3,
       "did": 3,
-      "pop": 0.967591,
-      "stadiumCapacity": 10000,
+      "pop": 1.4049,
+      "stadiumCapacity": 96450,
       "disabled": false
     },
     {
@@ -1197,8 +1197,8 @@
       "jersey": "football",
       "cid": 3,
       "did": 3,
-      "pop": 5.04074,
-      "stadiumCapacity": 50000,
+      "pop": 4.4328,
+      "stadiumCapacity": 100650,
       "disabled": false
     },
     {
@@ -1216,8 +1216,8 @@
       "jersey": "football5",
       "cid": 3,
       "did": 3,
-      "pop": 0.984145,
-      "stadiumCapacity": 10000,
+      "pop": 1.2265,
+      "stadiumCapacity": 94650,
       "disabled": false
     }
   ],
@@ -1357,8 +1357,8 @@
     "minRosterSize": 40,
     "neutralSite": "finals",
     "numDraftRounds": 7,
-    "numGames": 36,
-    "numGamesConf": 30,
+    "numGames": 17,
+    "numGamesConf": 15,
     "numGamesDiv": null,
     "numGamesPlayoffSeries": [
       5,
