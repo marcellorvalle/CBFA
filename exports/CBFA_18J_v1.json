@@ -1224,7 +1224,7 @@
   "gameAttributes": {
     "aiJerseyRetirement": true,
     "aiTradesFactor": 1,
-    "allStarGame": -1,
+    "allStarGame": null,
     "allStarNum": 44,
     "allStarType": "byConf",
     "alwaysShowCountry": false,
