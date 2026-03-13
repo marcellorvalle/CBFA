@@ -779,7 +779,7 @@
       "jersey": "football2",
       "cid": 2,
       "did": 2,
-      "pop": 13.6515,
+      "pop": 11.6515,
       "stadiumCapacity": 115950,
       "disabled": false
     },
@@ -836,7 +836,7 @@
       "jersey": "football2",
       "cid": 2,
       "did": 2,
-      "pop": 18.0407,
+      "pop": 15.0407,
       "stadiumCapacity": 121650,
       "disabled": false
     },
@@ -3184,6 +3184,50 @@
       "tragicDeathRate": 0.001,
       "twoPointConversions": true,
       "weightFactor": 1
-    }
+    },
+    "playerMoodTraits": true,
+    "playersRefuseToNegotiate": true,
+    "playoffsByConf": true,
+    "playoffsNumTeamsDiv": 1,
+    "playoffsReseed": true,
+    "pointsFormula": "2*W+T",
+    "quarterLength": 15,
+    "rookieContractLengths": [
+      3,
+      2
+    ],
+    "rookiesCanRefuse": true,
+    "rushYdsFactor": 1,
+    "sackFactor": 1,
+    "salaryCap": 200000,
+    "salaryCapType": "hard",
+    "saveOldBoxScores": {
+      "pastSeasons": 2,
+      "pastSeasonsType": "all",
+      "note": "all"
+    },
+    "scrambleFactor": 1,
+    "scrimmageTouchbackKickoff": 35,
+    "shootoutRounds": 0,
+    "shootoutRoundsPlayoffs": 0,
+    "softCapTradeSalaryMatch": 125,
+    "sonRate": 0.005,
+    "spectator": false,
+    "stopOnInjury": false,
+    "stopOnInjuryGames": 1,
+    "tiebreakers": [
+      "headToHeadRecord",
+      "divRecordIfSame",
+      "commonOpponentsRecord",
+      "confRecordIfSame",
+      "strengthOfVictory",
+      "strengthOfSchedule",
+      "marginOfVictory",
+      "coinFlip"
+    ],
+    "tradeDeadline": 0.5,
+    "tragicDeathRate": 0.001,
+    "twoPointConversions": true,
+    "weightFactor": 1
   }
 }
